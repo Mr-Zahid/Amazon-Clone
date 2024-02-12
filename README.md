@@ -12,4 +12,4 @@ Hey there,
 * I will be hosting it in the coming time.🚀
 
 
-[Live View](https://amazonshopping.netlify.app/)
+[Live View](https://mr-zahid.github.io/Amazon-Clone/)
